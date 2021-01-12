@@ -12,6 +12,8 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-size: 1.6rem;
+    font-family: 'Karla', sans-serif;
+    background: #f8f8ff;
   }
 
   h1, h2, h3 {
